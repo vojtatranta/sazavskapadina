@@ -1374,7 +1374,7 @@ table.alt tbody tr td {
   width: 64em;
   margin: 0 auto;
   max-width: calc(100% - 4em);
-  padding: 4em 0 2em 0;
+  padding: 2em 0 2em 0;
 }
 
 #wrapper > .main {
@@ -1487,7 +1487,7 @@ table.alt tbody tr td {
 }
 
 #header h1 {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.1em;
 }
 
 #header .inner {
@@ -1532,7 +1532,7 @@ table.alt tbody tr td {
   letter-spacing: 0.325rem;
   font-weight: 400;
   font-size: 0.8em;
-  padding: 0 1.25em;
+  padding: 0 .5em;
   color: white;
 }
 
